@@ -14,3 +14,6 @@ $ docker-compose exec web bash
 
 ## 以下URLをブラウザに入力
 http://localhost/myproject/src/
+
+## dockerを終了させる
+$ docker-compose down
